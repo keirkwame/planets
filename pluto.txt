@@ -1,18 +1,11 @@
 Let's just keep all this gobbledegook...
 
-I've written a new file in your repository.
-<<<<<<< HEAD
+I've written a new file in your repository
 And adding some shit at the end...
 Bye bye line!
 Keir is adding another line...
 and I changed the one above!
-=======
-
->>>>>>> d45c6f88e1e635448f9da389bba7566c27358e0d
 Keir is now writing a errorosgabnerbn line!
 Hawow!
 When the Americans created github, were they aware of what git means in Britain???
-<<<<<<< HEAD
-=======
-
->>>>>>> d45c6f88e1e635448f9da389bba7566c27358e0d
+ZINGALING
