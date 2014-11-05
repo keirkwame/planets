@@ -1,8 +1,8 @@
 I've written a new file in your repository.
-<<<<<<< HEAD
+
 Keir is now writing a errorosgabnerbn line!
 Hawow!
 =======
 Keir is now authoring a second line!
 When the Americans created github, were they aware of what git means in Britain???
->>>>>>> 48407dd95d8e245c148c8ecdc50bc62b1373fe2e
+
