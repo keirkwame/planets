@@ -1,5 +1,8 @@
-I've written a new file in your repository. And adding some shit at the end...
+I've written a new file in your repository.
+And adding some shit at the end...
 Bye bye line!
-Keir is adding another line...and I changed the one above!
-
+Keir is adding another line...
+and I changed the one above!
+Keir is now writing a errorosgabnerbn line!
+Hawow!
 When the Americans created github, were they aware of what git means in Britain???
